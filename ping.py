@@ -35,4 +35,4 @@ def animate(z):
 ani = animation.FuncAnimation(fig, animate, interval=50)
 plt.show()
 
-print(xs)
+print(xs_min)
